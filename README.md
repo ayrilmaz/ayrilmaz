@@ -1,4 +1,4 @@
-### Hi there, I'am Emre AYRILMAZ 👋.
+### Hi there, I'am Emre AYRILMAZ ![Ninja](./assets/ninja_40x40_1.gif)
 Lived since 1976 to 1989 but still coding coding coding ....
 
 
