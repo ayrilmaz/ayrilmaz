@@ -4,7 +4,7 @@ Lived since 1976 to 1989 but still coding coding coding ....
 
 - 🔭 I’m currently working on Szutech
 - 🌱 I’m currently learning Coding
-- ⌨ I’m currently coding 'Web Based .Net Technologies'
+- ⌨ I’m currently coding '.Net Based Web Applications'
 - 📫 How to reach me: $"{firstname}@{lastname}.com"
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Everybody can code
